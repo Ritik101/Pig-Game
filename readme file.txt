@@ -1,3 +1,7 @@
+THIS IS HOW THE APPLICATION WORKS
+
+There are 3 stages at every point in game:
+
 1) User rolls dice
 	When the user/player clicks on the roll dice button then we need to generate a random dice roll, 
 	then we display the dice roll and then we check whether it is a 1 if it is not a 1 then we add dice 
